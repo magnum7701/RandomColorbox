@@ -8,7 +8,7 @@
 }
 
 .smallbox{
-    border: solid saddlebrown;
+    /* border: solid black; */
     display: flex;
     align-items: center;
     justify-content: center;
