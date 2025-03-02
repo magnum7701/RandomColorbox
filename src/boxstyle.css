@@ -1,0 +1,15 @@
+.bigbox{
+    height: 75vh;
+    width: 75vh;
+    /* background-color: red; */
+    border : solid;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.smallbox{
+    border: solid saddlebrown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
